@@ -10,6 +10,8 @@ Gas-Utility-Project/
 │   └── templates/
 │       └── registration/login.html
 │
+|
+|
 ├── service_requests/          
 │   ├── models.py
 │   ├── views.py
@@ -19,11 +21,15 @@ Gas-Utility-Project/
 │           ├── submit_request.html
 │           └── track_requests.html
 │
+|
+|
 ├── Gas_Utility_Project/       
 │   ├── settings.py
 │   ├── urls.py
 │   └── wsgi.py
 │
+|
+|
 ├── db.sqlite3                 
 ├── manage.py
 ├── requirements.txt
